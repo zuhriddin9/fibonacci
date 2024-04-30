@@ -1,4 +1,4 @@
-# Fibonacci Sequence Project
+# FIibonacci-Generator for CodeAlpha internship Task 1
 
 ## Description
 This project provides a simple interactive Python application that allows users to:
